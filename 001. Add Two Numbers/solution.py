@@ -25,7 +25,9 @@ class Solution:
             if l2:
                 quot += l2.val
                 l2 = l2.next
-            quot, rem = divmod(quot, 10)
+            # quot, rem = divmod(quot, 10)
+            rem = quot % 10
+            quot = quot // 10
             p.next = ListNode(rem)
             p = p.next
 
