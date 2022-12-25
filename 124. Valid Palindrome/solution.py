@@ -32,6 +32,7 @@ class Solution2:
         return True
 
     def alphaNum(self, c):
+        # ord: ordinary, Unicode
         return (ord('A') <= ord(c) <= ord('Z') or
                 ord('a') <= ord(c) <= ord('z') or
                 ord('0') <= ord(c) <= ord('9'))
