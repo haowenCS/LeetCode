@@ -17,3 +17,10 @@ if __name__ == "__main__":
     nums = [1,2,3,1]
     print(Solution().containsDuplicate(nums))
     assert (Solution().containsDuplicate(nums) == True)
+
+    import numpy as np
+
+    tmp = np.arange(10)
+
+    print(tmp)
+    print(tmp[::-1])
