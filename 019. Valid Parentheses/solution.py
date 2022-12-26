@@ -18,3 +18,5 @@ if __name__ == "__main__":
     s = "()[]{}"
     print(Solution().isValid(s))
     # assert (Solution().twoSum(nums, target) == [0, 1])
+
+    print("set"=='set')
