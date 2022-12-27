@@ -4,7 +4,7 @@ LeetCode
 LeetCode solutions in C++ 11 and Python3.
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
-|---|-----|--------|----|----------|---|
+|--|-----|--------|----|----------|---|
 |0|[Two Sum](https://leetcode.com/problems/two-sum)|[C++](000.%20Two%20Sum/solution.h) [Python](000.%20Two%20Sum/solution.py)|[Note](000.%20Two%20Sum)|Easy|`Mapping`|
 |1|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[C++](001.%20Add%20Two%20Numbers/solution.h) [Python](001.%20Add%20Two%20Numbers/solution.py)|[Note](001.%20Add%20Two%20Numbers)|Medium|`LinkedList`|
 |2|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[C++](002.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.h) [Python](002.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.py)|[Note](002.%20Longest%20Substring%20Without%20Repeating%20Characters)|Medium|`Mapping`|
@@ -716,4 +716,5 @@ LeetCode solutions in C++ 11 and Python3.
 |708|[Network Delay Time](https://leetcode.com/problems/network-delay-time)|[C++](708.%20Network%20Delay%20Time/solution.h) [Python](708.%20Network%20Delay%20Time/solution.py)|[Note](708.%20Network%20Delay%20Time)|New|
 |709|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)|[C++](709.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/solution.h) [Python](709.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/solution.py)|[Note](709.%20Find%20Smallest%20Letter%20Greater%20Than%20Target)|New|
 |710|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[C++](710.%20Prefix%20and%20Suffix%20Search/solution.h) [Python](710.%20Prefix%20and%20Suffix%20Search/solution.py)|[Note](710.%20Prefix%20and%20Suffix%20Search)|New|
+|711|[Binary Search](https://leetcode.com/problems/binary-search/)|[C++](711.%20Binary%20Search/solution.h) [Python](711.%20Binary%20Search/solution.py)|[Note](711.%20Binary%20Search)|append|
 
