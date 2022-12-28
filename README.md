@@ -717,4 +717,5 @@ LeetCode solutions in C++ 11 and Python3.
 |709|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)|[C++](709.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/solution.h) [Python](709.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/solution.py)|[Note](709.%20Find%20Smallest%20Letter%20Greater%20Than%20Target)|New|
 |710|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[C++](710.%20Prefix%20and%20Suffix%20Search/solution.h) [Python](710.%20Prefix%20and%20Suffix%20Search/solution.py)|[Note](710.%20Prefix%20and%20Suffix%20Search)|New|
 |711|[Binary Search](https://leetcode.com/problems/binary-search/)|[C++](711.%20Binary%20Search/solution.h) [Python](711.%20Binary%20Search/solution.py)|[Note](711.%20Binary%20Search)|append|
+|712|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[C++](712.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.h) [Python](712.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py)|[Note](712.%20Binary%20Search)|append|
 
