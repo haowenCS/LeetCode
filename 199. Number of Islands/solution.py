@@ -16,8 +16,8 @@ class Solution:
             visit.add((r, c))
             q.append((r, c))
             while q:
-                # row, col = q.popleft() # breadth first search
-                row, col = q.pop()  # depth first search
+                # row, col = q.popleft() # breadth first search, # popleft() the least recent
+                row, col = q.pop()  # depth first search, # pop() the most recent
                 directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
                 for dr, dc in directions:
                     r, c = row + dr, col + dc
