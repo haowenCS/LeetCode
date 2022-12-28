@@ -17,7 +17,7 @@ class Solution:
             q.append((r, c))
             while q:
                 # row, col = q.popleft() # breadth first search
-                row, col = q.pop()  # deapth first search
+                row, col = q.pop()  # depth first search
                 directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
                 for dr, dc in directions:
                     r, c = row + dr, col + dc
