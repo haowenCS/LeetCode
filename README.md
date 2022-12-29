@@ -718,4 +718,5 @@ LeetCode solutions in C++ 11 and Python3.
 |710|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[C++](710.%20Prefix%20and%20Suffix%20Search/solution.h) [Python](710.%20Prefix%20and%20Suffix%20Search/solution.py)|[Note](710.%20Prefix%20and%20Suffix%20Search)|New|
 |711|[Binary Search](https://leetcode.com/problems/binary-search/)|[C++](711.%20Binary%20Search/solution.h) [Python](711.%20Binary%20Search/solution.py)|[Note](711.%20Binary%20Search)|append|
 |712|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[C++](712.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.h) [Python](712.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py)|[Note](712.%20Binary%20Search)|append|
+|1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[C++](1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.h) [Python](1584.%20Min%20Cost%20to%20Connect%20All%20Points/solution.py)|[Note](1584.%20Min%20Cost%20to%20Connect%20All%20Points)|append|
 
