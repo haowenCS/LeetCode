@@ -1,18 +1,16 @@
 #!python3
+from typing import List
 
 
 class Solution:
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         dic = {}
         for index, num in enumerate(nums):
-            if num in dic:
-                return [dic[num], index]
-            dic[target - num] = index
+            diff = target - num
+            if(diff in dic):
+                return [dic[diff], index]
+
+            dic[num] = index
 
 
 if __name__ == "__main__":
